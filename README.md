@@ -1,6 +1,4 @@
 # soldering_station
-=====================
-
 Features
 --------
 
